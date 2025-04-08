@@ -7,13 +7,19 @@ This Jupyter Notebook (geoclassification_subreddit_posts.ipynb) demonstrates how
 
 In this project, we aim to predict the city to which a subreddit post is most likely related based on textual cues. The four target cities are:
 	•	Canberra (Australia)
+ 
 	•	Boston (USA)
+ 
 	•	Geneva (Switzerland)
+ 
 	•	Ottawa (Canada)
 
 Key goals include:
+
 	•	Data Preprocessing: Cleaning raw subreddit text (removing punctuation, emojis, special characters).
+ 
 	•	Feature Engineering: Using methods like TF-IDF or word embeddings to represent text.
+ 
 	•	Classification: Training supervised machine-learning models (e.g., Logistic Regression, Naive Bayes, or a neural network) to categorize posts by city.
 
 ---
