@@ -6,6 +6,7 @@ This Jupyter Notebook (geoclassification_subreddit_posts.ipynb) demonstrates how
 ## Overview
 
 In this project, we aim to predict the city to which a subreddit post is most likely related based on textual cues. The four target cities are:
+
 	•	Canberra (Australia)
  
 	•	Boston (USA)
