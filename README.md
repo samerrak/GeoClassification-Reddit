@@ -2,6 +2,11 @@
 
 This Jupyter Notebook (geoclassification_subreddit_posts.ipynb) demonstrates how to classify the text of subreddit posts into four cities: Canberra, Boston, Geneva, and Ottawa. It covers data cleaning, exploratory analysis, model training, and evaluation steps, all within a single notebook.
 
+Placed 1st/17 teams on the Public Kaggle Leaderboard as the 1st team got disqualified for reverse engineering the problem
+
+https://www.kaggle.com/competitions/ecse-551-w-25-mp-2/leaderboard?
+
+
 --- 
 ## Overview
 
